@@ -54,25 +54,3 @@ The primary goal of this project is to build a system that can accurately detect
 ## Outcome
 The system aims to achieve X% precision and Y% recall in identifying fraudulent transactions while processing Z transactions per second. This capability can significantly mitigate financial losses due to fraud.
 
-## Getting Started
-To get started with this project, clone the repository using the following command:
-
-```bash
-git clone https://github.com/sonulenka08/A-real-time-fraud-detection-system-for-financial-transactions-capable-of-identifying-fraudule.git
-```
-
-Make sure to install the necessary dependencies listed in the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Contribution
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
----
-
-Feel free to modify any sections as needed or add additional details specific to your project!
-
-Citations:
-[1] https://github.com/sonulenka08/A-real-time-fraud-detection-system-for-financial-transactions-capable-of-identifying-fraudule.git
